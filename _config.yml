@@ -4,10 +4,16 @@ email: kim1@lsu.edu
 description: Assistant Professor of Political Science, Louisiana State University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jeonghkim.github.io" # the base hostname & protocol for your site
+#avatar: "/img/shaun-jackman-square.jpg"
+#avatarurl: "https://sjackman.ca/about-me/"
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 3
+
+navbar-links:
+CV: "https://jeonghyunkimcom.files.wordpress.com/2019/03/kim_cv-1.pdf"
+Research:
 
 # Misc settings
 featured-image-source:
