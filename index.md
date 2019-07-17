@@ -9,6 +9,6 @@ use-site-title: true
 
 <p> My recent work investigates the conditions that support political inclusion of marginalized groups. I explore the relationship between direct democracy and political engagement among women as well as how the use of direct democracy influences inequalities in political participation across social groups.</p>
 
-<p>In other ongoing projects, I explore women’s representation, the dynamics of party competitions, and public opinion on climate change. My research has been published or is forthcoming in the <b> American Journal of Political Science </b> and Comparative Political Studies.</p>
+<p>In other ongoing projects, I explore women’s representation, the dynamics of party competitions, and public opinion on climate change. My research has been published or is forthcoming in the <i> American Journal of Political Science </i> and <i> Comparative Political Studies.</i> </p>
 
 <p>I received my Ph.D. in Political Science from <a href="http://polisci.wustl.edu//" target="_blank"> Washington University in St. Louis in 2018. </a> </p>
