@@ -5,7 +5,7 @@ description: Assistant Professor of Political Science, Louisiana State Universit
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jeonghkim.github.io" # the base hostname & protocol for your site
 #avatar: "/img/shaun-jackman-square.jpg"
-avatarurl: "https://jeongkim.github.io/aboutme"
+avatarurl: "https://jeonghkim.github.io/aboutme/"
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
