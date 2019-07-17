@@ -5,7 +5,7 @@ subtitle: Assistant Professor of Political Science, Louisiana State University
 use-site-title: true
 ---
 
-<p> Welcome to my website! I am an Assistant Professor of Political Science at Louisiana State University. My research and teaching interests encompass political behavior, representation, gender and politics, and public opinion in comparative contexts. </p>
+<p> Welcome to my website! I am an Assistant Professor of Political Science at <a href="https://www.lsu.edu/hss/polisci/" target="_blank"> Louisiana State University</a>. My research and teaching interests encompass political behavior, representation, gender and politics, and public opinion in comparative contexts. </p>
 
 <p> My recent work investigates the conditions that support political inclusion of marginalized groups. I explore the relationship between direct democracy and political engagement among women as well as how the use of direct democracy influences inequalities in political participation across social groups.</p>
 
