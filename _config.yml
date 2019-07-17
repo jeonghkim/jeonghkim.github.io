@@ -5,7 +5,7 @@ description: Assistant Professor of Political Science, Louisiana State Universit
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jeonghkim.github.io" # the base hostname & protocol for your site
 #avatar: "/img/shaun-jackman-square.jpg"
-#avatarurl: "https://sjackman.ca/about-me/"
+avatarurl: "https://jeongkim.github.io/aboutme"
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -14,6 +14,7 @@ tiles-count: 3
 navbar-links:
   CV: "https://jeonghyunkimcom.files.wordpress.com/2019/03/kim_cv-1.pdf"
   Research:
+  About Me: "aboutme"
 
 # Misc settings
 featured-image-source:
