@@ -12,6 +12,7 @@ avatarurl: "https://jeonghkim.github.io/aboutme/"
 #tiles-count: 3
 
 navbar-links:
+  Home: "http://jeonghkim.github.io"
   CV: "https://jeonghyunkimcom.files.wordpress.com/2019/03/kim_cv-1.pdf"
   Research:
   About Me: "aboutme"
