@@ -5,7 +5,7 @@ subtitle: Assistant Professor of Political Science, Louisiana State University
 use-site-title: true
 ---
 
-<img src="/img/Kim.jpg" class="wrap align-right" alt="JKim profile">
+<img src="/img/Kim.jpg" class="wrap align-center" alt="JKim profile">
 
 <p> Welcome to my website! I am an Assistant Professor of Political Science at <a href="https://www.lsu.edu/hss/polisci/" target="_blank"> Louisiana State University</a>. I work in the field of comparative politics with a focus on political participation, gender and politics, and representation. </p>
 
