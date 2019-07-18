@@ -5,7 +5,7 @@ subtitle: Assistant Professor of Political Science, Louisiana State University
 use-site-title: true
 ---
 
-<p> <img src="/img/Kim_picture_2016.jpg" align="right" alt="JKim profile" height="200" width="150" hspace=”50” vspace=”50”> Welcome to my website! I am an Assistant Professor of Political Science at <a href="https://www.lsu.edu/hss/polisci/" target="_blank"> Louisiana State University</a>. I work in the field of comparative politics with a focus on political participation, gender and politics, and representation. </p>
+<img src="/img/Kim_picture_2016.jpg" align="right" alt="JKim profile" height="200" width="150" hspace=”50” vspace=”50”> <p> Welcome to my website! I am an Assistant Professor of Political Science at <a href="https://www.lsu.edu/hss/polisci/" target="_blank"> Louisiana State University</a>. I work in the field of comparative politics with a focus on political participation, gender and politics, and representation. </p>
 
 <p> I received my Ph.D. in Political Science from <a href="http://polisci.wustl.edu//" target="_blank"> Washington University in St. Louis </a> in 2018. My dissertation investigates the conditions that support political inclusion of marginalized groups. Using historical data and panel survey, I explore the relationship between direct democracy and political engagement among women as well as how the use of direct democracy influences inequalities in political participation across social groups.</p>
 
