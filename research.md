@@ -4,7 +4,7 @@ subtitle: Highlighted Research Projects
 layout: page
 show-avatar: false
 ---
-
+<p> For a full list of my publications and research projects, please see my CV. </p>
   <section class="spotlight">
     <h2> Direct Democracy and Women’s Political Engagement </h2><p> <b>  Forthcoming at <i> American Journal of Political Science </i> </b>. </p>
   <p> In this paper, I propose that the presence of direct democracy expands the gender
