@@ -25,3 +25,8 @@ introduction of universal suffrage, I find that the gender gap in electoral part
   <p> In this article, we argue that integration into global markets constrains parties’ abilities to credibly differentiate themselves on economic issues. Given these constraints, and voters’ awareness of them, parties activate other non-economic issues along which to compete. Using data across 49 countries between 1961 and 2010, this study shows that increased economic integration is associated with increased emphasis on non-economic issues during election campaigns.</p>
   </section>
   
+<section class="highlight"> <h2> Islamic Rule and Women's Representation </h2>
+  <p> This paper investigates the effect of a pro-Islamist local government on participation of women in local politics. We use a unique dataset of Turkish local elections results and data on gender of municipal council candidates who ran for office. Using a regression
+discontinuity design, we compare the number of female candidates in districts where the mayoral candidates from the pro-Islamist party, AKP, narrowly lost or won local elections. We find that election of a mayor from a pro-Islamist party leads to a lower
+share of females running as candidates in municipal councils. </p>
+  <p> (with Deniz Aksoy) </p> </section>
