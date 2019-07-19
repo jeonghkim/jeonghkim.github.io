@@ -4,7 +4,7 @@ subtitle: Highlighted Research Projects
 layout: page
 show-avatar: false
 ---
-<p> For a full list of my publications and research projects, please see my CV. </p>
+<p> For a full list of my publications and ongoing research, please see my <a href=""> CV</a>. </p>
   <section class="spotlight">
     <h2> Direct Democracy and Women’s Political Engagement </h2><p> <b>  Forthcoming at <i> American Journal of Political Science </i> </b>. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12420" target="_blank"> Link </a></p>
   <p> In this paper, I propose that the presence of direct democracy expands the gender
@@ -23,7 +23,7 @@ introduction of universal suffrage, I find that the gender gap in electoral part
   <p> In this article, we argue that integration into global markets constrains parties’ abilities to credibly differentiate themselves on economic issues. Given these constraints, and voters’ awareness of them, parties activate other non-economic issues along which to compete. Using data across 49 countries between 1961 and 2010, this study shows that increased economic integration is associated with increased emphasis on non-economic issues during election campaigns. </p>
   </section>
   
-<section class="highlight"> <h2> Islamic Rule and Women's Representation </h2> <p> Working Paper (with Deniz Aksoy) </p> 
+<section class="spotlight"> <h2> Islamic Rule and Women's Representation </h2> <p> Working Paper (with Deniz Aksoy) </p> 
   <p> This paper investigates the effect of a pro-Islamist local government on participation of women in local politics. We use a unique dataset of Turkish local elections results and data on gender of municipal council candidates who ran for office. Using a regression
 discontinuity design, we compare the number of female candidates in districts where the mayoral candidates from the pro-Islamist party, AKP, narrowly lost or won local elections. We find that election of a mayor from a pro-Islamist party leads to a lower
 share of females running as candidates in municipal councils. </p>
