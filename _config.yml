@@ -15,6 +15,8 @@ navbar-links:
   Home: "http://jeonghyunkim.com"
   CV: "https://jeonghyunkimcom.files.wordpress.com/2019/03/kim_cv-1.pdf"
   Research: "research"
+  Teaching: "teaching"
+  Contact: 
   #About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
