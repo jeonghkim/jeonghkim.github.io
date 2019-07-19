@@ -13,7 +13,7 @@ url: "http://jeonghyunkim.com" # the base hostname & protocol for your site
 
 navbar-links:
   Home: "http://jeonghyunkim.com"
-  CV: "https://jeonghyunkimcom.files.wordpress.com/2019/03/kim_cv-1.pdf"
+  CV: "CV"
   Research: "research"
   Teaching: "teaching"
   Contact: 
