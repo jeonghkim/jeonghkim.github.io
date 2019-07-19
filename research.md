@@ -1,5 +1,6 @@
 ---
 title: Research
+subtitle: Published Work and Research in Progress
 layout: page
 show-avatar: false
 ---
