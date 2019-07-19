@@ -6,7 +6,7 @@ show-avatar: false
 ---
 <p> For a full list of my publications and research projects, please see my CV. </p>
   <section class="spotlight">
-    <h2> Direct Democracy and Women’s Political Engagement </h2><p> <b>  Forthcoming at <i> American Journal of Political Science </i> </b>. </p> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12420" target="_blank"> Link </a>
+    <h2> Direct Democracy and Women’s Political Engagement </h2><p> <b>  Forthcoming at <i> American Journal of Political Science </i> </b>. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12420" target="_blank"> Link </a></p>
   <p> In this paper, I propose that the presence of direct democracy expands the gender
 equality in political participation. Leveraging a quasi-experiment in Sweden in the aftermath of the
 introduction of universal suffrage, I find that the gender gap in electoral participation was smaller in municipalities using direct democracy than in similarly-sized municipalities that only had representative institutions.</p>   
@@ -18,7 +18,7 @@ introduction of universal suffrage, I find that the gender gap in electoral part
   </section> 
   
   <section class="spotlight">
-  <h2> How Economic Integration Affects Party Issue Emphases.</h2><p> <b> 2015. Comparative Political Studies, 48(10), pp.1227-1259. </b> (With Dalston Ward, Matthew Graham, and Margit Tavits)  <a href="http://jeonghyunkim.com/CPS_2015.pdf" target="_blank"> Paper </a>
+  <h2> How Economic Integration Affects Party Issue Emphases.</h2><p> <b> 2015. Comparative Political Studies, 48(10), pp.1227-1259. </b> (With Dalston Ward, Matthew Graham, and Margit Tavits)  <a href="https://journals.sagepub.com/doi/full/10.1177/0010414015576745" target="_blank"> Paper </a>
   
   <p> In this article, we argue that integration into global markets constrains parties’ abilities to credibly differentiate themselves on economic issues. Given these constraints, and voters’ awareness of them, parties activate other non-economic issues along which to compete. Using data across 49 countries between 1961 and 2010, this study shows that increased economic integration is associated with increased emphasis on non-economic issues during election campaigns. </p>
   </section>
