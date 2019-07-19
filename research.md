@@ -1,10 +1,9 @@
 ---
-title: Research
-subtitle: Published Work and Research in Progress
+title: Highlighted Research
 layout: page
 show-avatar: false
 ---
-<section>
   <section class="spotlight">
-    <h2> Publications </h2>
+    <h2> “Direct Democracy and Women’s Political Engagement” </h2>
+    <p>  Forthcoming at <i> American Journal of Political Science </i>. </p> 
   </section>
