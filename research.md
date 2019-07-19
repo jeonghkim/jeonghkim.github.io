@@ -19,4 +19,9 @@ introduction of universal suffrage, I find that the gender gap in electoral part
   <p> Using an original panel survey before and after the abortion referendum in Ireland, I demonstrate that achieving a desired outcome through voting in direct democracy induces a short-term increase in citizens' sense of political efficacy. The findings also suggest that this participatory effect is more pronounced among political minorities, mitigating the existing gap in political efficacy between the political majority and minority. </p>
   </section> 
   
+  <section class="spotlight">
+  <h2> How Economic Integration Affects Party Issue Emphases.</h2>
+  <p> <b> With Dalston Ward, Matthew Graham, and Margit Tavits. 2015. Comparative Political Studies, 48(10), pp.1227-1259. </b> </p>
+  <p> In this article, we argue that integration into global markets constrains parties’ abilities to credibly differentiate themselves on economic issues. Given these constraints, and voters’ awareness of them, parties activate other non-economic issues along which to compete. Using data across 49 countries between 1961 and 2010, this study shows that increased economic integration is associated with increased emphasis on non-economic issues during election campaigns.</p>
+  </section>
   
