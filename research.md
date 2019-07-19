@@ -4,7 +4,7 @@ subtitle: Highlighted Research Projects
 layout: page
 show-avatar: false
 ---
-<p> For a full list of my publications and ongoing research, please see my <a href=""> CV</a>. </p>
+<p> For a full list of my publications and ongoing research, please see my <a href="https://jeonghyunkim.com/Kim_CV.pdf"> CV</a>. </p>
   <section class="spotlight">
     <h2> Direct Democracy and Women’s Political Engagement </h2><p> <b>  Forthcoming at <i> American Journal of Political Science </i> </b> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12420" target="_blank"> Link </a></p>
   <p> In this paper, I propose that the presence of direct democracy expands the gender
