@@ -18,7 +18,7 @@ introduction of universal suffrage, I find that the gender gap in electoral part
   </section> 
   
   <section class="spotlight">
-  <h2> How Economic Integration Affects Party Issue Emphases.</h2> <p> <b> 2015. Published at Comparative Political Studies </b> <br>(With Dalston Ward, Matthew Graham, and Margit Tavits)  <a href="https://journals.sagepub.com/doi/full/10.1177/0010414015576745" target="_blank"> Link </a> </p>
+  <h2> How Economic Integration Affects Party Issue Emphases.</h2> <p> <b> 2015. Published at <i> Comparative Political Studies </i> </b> <br>(With Dalston Ward, Matthew Graham, and Margit Tavits)  <a href="https://journals.sagepub.com/doi/full/10.1177/0010414015576745" target="_blank"> Link </a> </p>
   
   <p> In this article, we argue that integration into global markets constrains parties’ abilities to credibly differentiate themselves on economic issues. Given these constraints, and voters’ awareness of them, parties activate other non-economic issues along which to compete. Using data across 49 countries between 1961 and 2010, this study shows that increased economic integration is associated with increased emphasis on non-economic issues during election campaigns. </p>
   </section>
