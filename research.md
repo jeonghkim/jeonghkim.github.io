@@ -19,7 +19,7 @@ introduction of universal suffrage, I find that the gender gap in electoral part
   </section> 
 
 <section class="spotlight">
-  <h2> Status Threat and Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea</h2> <p> <b>  Under Review </b> </p> <br>(With Yesola Kweon) 
+  <h2> Status Threat and Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea</h2> <p> <b>  Under Review </b> <br>(With Yesola Kweon) </p>
   <p> Despite the increasing efforts to implement gender equality policies, many countries still encounter substantial popular opposition against these policies. We develop and test a theoretical framework linking men’s perceived status threat to their attitudes toward gender equality policies. First, we expect that men’s perceptions of status threat will trigger negative attitudes toward gender equality policies. Second, we expect that this status threat will have more profound effects among young men with a heightened degree of economic insecurity. To test these arguments, we fielded a survey experiment with a representative sample in South Korea. Our findings demonstrate the strong influence of status threats in the formation of negative attitudes toward legislative gender quotas among young men. This conclusion presents significant implications for the study of gender and politics and democratic representation. Further, this study informs policy makers of ways to mandate an inclusive policy without incurring social conflicts. </p>
   </section>
 
