@@ -13,7 +13,7 @@ introduction of universal suffrage, I find that the gender gap in electoral part
   </section>
 
   <section class="spotlight">
-   <h2> The Gendered Effect of Direct Democracy on Political Efficacy </h2> <p> <b>  Under Review </b> </p> 
+   <h2> The Gendered Effect of Direct Democracy on Political Efficacy </h2> <p> <b>  Invited to Revise and Resubmit at Journal of Elections, Public Opinion and Parties </b> </p> 
   <p> Using an original panel survey before and after the abortion referendum in Ireland, I demonstrate that achieving a desired outcome through voting in direct democracy induces a short-term increase in citizens' sense of political efficacy. The findings also suggest that this participatory effect is more pronounced among political minorities, mitigating the existing gap in political efficacy between the political majority and minority. <p> <i> Winner of Best Paper by an Emerging Scholar Award presented at 2019 MPSA </i> </p> </p> 
   
   </section> 
