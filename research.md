@@ -12,17 +12,8 @@ equality in political participation. Leveraging a quasi-experiment in Sweden in 
 introduction of universal suffrage, I find that the gender gap in electoral participation was smaller in municipalities using direct democracy than in similarly-sized municipalities that only had representative institutions.</p>   
   </section>
 
-  <section class="spotlight">
-   <h2> Voting in Referendums Increases Internal Political Efficacy of Men
-     but not Women: Evidence from Ireland’s 2018 Abortion Referendum  </h2> <p> <b> Accepted for Publication. <i> Journal of Elections, Public Opinion, and Parties </i> </b> </p> 
-  <p> In this paper, I examine whether experience of direct participation in political decision-making alters women's feelings of internal political effiacy differently from it does men's. I theorize that voting in direct democracy will promote men's internal political efficacy but not women's, because of women's greater susceptibility to psychological costs of participation in direct democracy. Using an original panel survey
-conducted shortly before and after the 2018 abortion referendum in Ireland, I demonstrate the presence of the gendered effect in voting in direct democracy: While men reported increased internal political efficacy after voting in direct democracy, women did not experience any meaningful change, even though the issue magnified women's psychological engagement with the direct democratic process. <p> <i> Winner of Best Paper by an Emerging Scholar Award presented at 2019 MPSA </i> </p> </p> 
-  
-  </section> 
-
-
 <section class="spotlight">
-  <h2> Status Threat and Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea</h2> <p> <b>  Revise and Resubmit </b> <br>(With Yesola Kweon) </p>
+  <h2> Economic Threats and Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea</h2> <p> <b>  Revise and Resubmit </b> <br>(With Yesola Kweon) </p>
   <p> Despite the increasing efforts to implement gender equality policies, many countries still encounter substantial popular opposition against these policies. We develop and test a theoretical framework linking men’s perceived status threat to their attitudes toward gender equality policies. First, we expect that men’s perceptions of status threat will trigger negative attitudes toward gender equality policies. Second, we expect that this status threat will have more profound effects among young men with a heightened degree of economic insecurity. To test these arguments, we fielded a survey experiment with a representative sample in South Korea. Our findings demonstrate the strong influence of status threats in the formation of negative attitudes toward legislative gender quotas among young men. This conclusion presents significant implications for the study of gender and politics and democratic representation. Further, this study informs policy makers of ways to mandate an inclusive policy without incurring social conflicts. </p>
   </section>
 
