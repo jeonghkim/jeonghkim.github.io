@@ -14,7 +14,7 @@ introduction of universal suffrage, I find that the gender gap in electoral part
 
   <section class="spotlight">
    <h2> Voting in Referendums Increases Internal Political Efficacy of Men
-     but not Women: Evidence from Ireland’s 2018 Abortion Referendum  </h2> <p> <b> 2021. <i> Journal of Elections, Public Opinion, and Parties </i> </b> </p> 
+     but not Women: Evidence from Ireland’s 2018 Abortion Referendum  </h2> <p> <b> Accepted for Publication. <i> Journal of Elections, Public Opinion, and Parties </i> </b> </p> 
   <p> In this paper, I examine whether experience of direct participation in political decision-making alters women's feelings of internal political effiacy differently from it does men's. I theorize that voting in direct democracy will promote men's internal political efficacy but not women's, because of women's greater susceptibility to psychological costs of participation in direct democracy. Using an original panel survey
 conducted shortly before and after the 2018 abortion referendum in Ireland, I demonstrate the presence of the gendered effect in voting in direct democracy: While men reported increased internal political efficacy after voting in direct democracy, women did not experience any meaningful change, even though the issue magnified women's psychological engagement with the direct democratic process. <p> <i> Winner of Best Paper by an Emerging Scholar Award presented at 2019 MPSA </i> </p> </p> 
   
