@@ -21,7 +21,7 @@ conducted shortly before and after the 2018 abortion referendum in Ireland, I de
   </section> 
 
 <section class="spotlight">
-  <h2> Women Leaders and Policy Compliance during a Public Health Crisis</h2> <p> <b> 2020. <i> Politics & Gender >/i> </b> <br>(With Nichole Bauer and Yesola Kweon) </p>
+  <h2> Women Leaders and Policy Compliance during a Public Health Crisis</h2> <p> <b> 2020. <i> Politics & Gender </i> </b> <br>(With Nichole Bauer and Yesola Kweon) </p>
 <p> This paper investigates whether citizens are more willing to comply with strict policy recommendations about a public health issue when those recommendations are made by a female leader rather than a male leader. Using a survey experiment of American citizens, we compare individuals’ willingness to comply with policy along three dimensions: social distancing, face covering, and contact tracing. Our findings show that a leader’s gender has little impact on policy compliance in general during the pandemic. These findings carry important implications for successful crisis management as well as understanding how a crisis in a non-masculine issue context influences the effectiveness of a leader’s ability to implement measures to mitigate the crisis. </p>
 </section>
 
