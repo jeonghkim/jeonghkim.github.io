@@ -20,15 +20,16 @@ conducted shortly before and after the 2018 abortion referendum in Ireland, I de
   
   </section> 
 
-<section class="spotlight">
-  <h2> Women Leaders and Policy Compliance during a Public Health Crisis</h2> <p> <b> 2020. <i> Published at Politics & Gender </i> </b> <br>(With Nichole Bauer and Yesola Kweon) </p>
-<p> This paper investigates whether citizens are more willing to comply with strict policy recommendations about a public health issue when those recommendations are made by a female leader rather than a male leader. Using a survey experiment of American citizens, we compare individuals’ willingness to comply with policy along three dimensions: social distancing, face covering, and contact tracing. Our findings show that a leader’s gender has little impact on policy compliance in general during the pandemic. These findings carry important implications for successful crisis management as well as understanding how a crisis in a non-masculine issue context influences the effectiveness of a leader’s ability to implement measures to mitigate the crisis. </p>
-</section>
 
 <section class="spotlight">
   <h2> Status Threat and Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea</h2> <p> <b>  Revise and Resubmit </b> <br>(With Yesola Kweon) </p>
   <p> Despite the increasing efforts to implement gender equality policies, many countries still encounter substantial popular opposition against these policies. We develop and test a theoretical framework linking men’s perceived status threat to their attitudes toward gender equality policies. First, we expect that men’s perceptions of status threat will trigger negative attitudes toward gender equality policies. Second, we expect that this status threat will have more profound effects among young men with a heightened degree of economic insecurity. To test these arguments, we fielded a survey experiment with a representative sample in South Korea. Our findings demonstrate the strong influence of status threats in the formation of negative attitudes toward legislative gender quotas among young men. This conclusion presents significant implications for the study of gender and politics and democratic representation. Further, this study informs policy makers of ways to mandate an inclusive policy without incurring social conflicts. </p>
   </section>
+
+<section class="spotlight">
+  <h2> Women Leaders and Policy Compliance during a Public Health Crisis</h2> <p> <b> 2020. <i> Published at Politics & Gender </i> </b> <br>(With Nichole Bauer and Yesola Kweon) </p>
+<p> This paper investigates whether citizens are more willing to comply with strict policy recommendations about a public health issue when those recommendations are made by a female leader rather than a male leader. Using a survey experiment of American citizens, we compare individuals’ willingness to comply with policy along three dimensions: social distancing, face covering, and contact tracing. Our findings show that a leader’s gender has little impact on policy compliance in general during the pandemic. These findings carry important implications for successful crisis management as well as understanding how a crisis in a non-masculine issue context influences the effectiveness of a leader’s ability to implement measures to mitigate the crisis. </p>
+</section>
 
   <section class="spotlight">
   <h2> How Economic Integration Affects Party Issue Emphases.</h2> <p> <b> 2015. Published at <i> Comparative Political Studies </i> </b> <br>(With Dalston Ward, Matthew Graham, and Margit Tavits)  <a href="https://journals.sagepub.com/doi/full/10.1177/0010414015576745" target="_blank"> Link </a> </p>
