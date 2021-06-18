@@ -14,7 +14,7 @@ url: "http://jeonghyunkim.com" # the base hostname & protocol for your site
 navbar-links:
   Home: "http://jeonghyunkim.com"
   CV: "cv"
-  Research: "research"
+  #Research: "research"
   Teaching: "teaching"
   Contact: "contact"
   #About Me: "aboutme"
