@@ -7,8 +7,8 @@ show-avatar: false
 
 <section class="spotlight">
   <h2> Louisiana State University </h2>
-  <p> <b>  Introduction to Comparative Politics</b> (Undergraduate; Fall 2018, Fall 2019) <a href="https://jeonghyunkim.com/IntroCP.pdf"> Syllabus </a> </p>
-    <p> <b>  Voting, Campaigns, and Elections </b> (Undergraduate; Spring 2019) <a href="https://jeonghyunkim.com/PS4060_Syllabus.pdf"> Syllabus </a> </p>
-      <p> <b>  Comparative Political Behavior </b> (Graduate; Spring 2019) <a href="https://jeonghyunkim.com/PS7975_Syllabus.pdf"> Syllabus </a> </p>
+  <p> <b>  Introduction to Comparative Politics</b> (Undergraduate; Fall 2018, Fall 2019) </p>
+    <p> <b>  Voting, Campaigns, and Elections </b> (Undergraduate; Spring 2019) </p>
+      <p> <b>  Comparative Political Behavior </b> (Graduate; Spring 2019) </p>
 
 </section>
