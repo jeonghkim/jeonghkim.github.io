@@ -5,7 +5,7 @@ subtitle: Assistant Professor of Political Science, Louisiana State University
 use-site-title: true
 ---
 
-<img src="/img/Kim_picture_2016.jpg" align="right" alt="JKim profile" height="250" width="190" hspace="30" vspace="30"> 
+<img src="/img/JHK_photo.jpeg" align="right" alt="JKim profile" height="250" width="190" hspace="30" vspace="30"> 
 
 <p> Welcome to my website! I am an Assistant Professor of Political Science at <a href="https://www.lsu.edu/hss/polisci/" target="_blank"> Louisiana State University</a>. I work in the field of comparative politics with a focus on democratic representation, gender and politics, and public opinion on policy. I received my Ph.D. in Political Science from <a href="http://polisci.wustl.edu//" target="_blank"> Washington University in St. Louis </a> in 2018. </p>
   
