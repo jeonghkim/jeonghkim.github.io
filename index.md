@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Jeong Hyun Kim
-subtitle: Political Scientist
-use-site-title: true
+subtitle: Assistant Professor of Political Science
+use-site-title: false
 ---
 
 <img src="/img/JHK_photo.jpg" align="right" alt="JKim profile" height="300" width="190" hspace="30" vspace="30"> 
