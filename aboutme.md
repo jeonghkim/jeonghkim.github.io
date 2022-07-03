@@ -1,6 +1,6 @@
 ---
-title: Jeong Hyun Kim
-subtitle: Assistant Professor, Department of Political Science, Louisiana State University
+title: 
+subtitle:
 layout: page
 show-avatar: false
 ---
