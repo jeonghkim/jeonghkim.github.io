@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jeong Hyun Kim
-subtitle: Assistant Professor of Political Science
+title: 
+subtitle: 
 use-site-title: false
 ---
 
