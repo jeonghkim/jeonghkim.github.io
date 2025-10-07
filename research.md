@@ -35,6 +35,4 @@ show-avatar: false
 <p> Bauer, Nichole, Jeong Hyun Kim, and Yesola Kweon. 2020. <a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A" target="_blank">"Women Leaders and Policy Compliance during a Public Health Crisis."</a> <i>Politics & Gender</i> 16(4): 975-982. </p>
 <p> Kim, Jeong Hyun. 2019. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12420" target="_blank">"Direct Democracy and Women's Political Engagement."</a>  <i>American Journal of Political Science</i> 63 (3), 594-610.</p>
 <p>Ward, Dalston, Jeong Hyun Kim, Matthew Graham, and Margit Tavits. 2015. <a href="https://journals.sagepub.com/doi/abs/10.1177/0010414015576745" target="_blank">"How economic integration affects party issue emphases."</a> <i>Comparative Political Studies</i> 48(10), 1227-1259.</p>
-
-<h2>Book Projects in Preparation</h2>
 </section>
