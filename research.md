@@ -11,5 +11,11 @@ show-avatar: false
   
    <p>  Nichole Bauer, Anna Gunderson, Jeong Hyun Kim, Elizabeth Lane, Belinda Davis, and Kathleen Searles. 2025. <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/gendered-expectations-do-voters-reward-women-for-supporting-womens-interests/1ED531AC25B077F1AFE1A88E5B086A4A" target="_blank"> "Gendered Expectations: Do Voters Reward Women for Supporting Women's Interests?" </a> 
   <i>British Journal of Political Science</i>55 e80. 1-19.</p>
-  
+
+  <p>Anna Gunderson, Jeong Hyun Kim, Elizabeth Lane, Nichole Bauer, Belinda Davis, and Kathleen Searles. 2025. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/730721" target="_blank">"Candidate Gender, Campaign Appeals, and Voter Support in Judicial Elections."</a> <i> Journal of Politics</i> 87(1), 172-189.
+  </p>
+
+  <p>Kim, Jeong Hyun, John Seungmin Kuk, and Yesola Kweon. 2024. <a href="https://bristoluniversitypressdigital.com/view/journals/pp/52/3/article-p430.xml" target="_blank"> "Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution?" </a> <i>Policy & Politics</i> 52(3) 430-452.
+  </p>
+
 </section>
