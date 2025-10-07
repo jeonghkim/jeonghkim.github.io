@@ -7,7 +7,7 @@ show-avatar: false
 
 <section>
   <h2>Courses</h2>
-  <b>  Introduction to Comparative Politics</b> <br> <i>Louisiana State University (Undergraduate) </i>
+  <h3>  Introduction to Comparative Politics</h3> <br> <i>Louisiana State University (Undergraduate) </i>
   <br> This course provides an introduction to fundamental concepts, theories
 and questions of the study of comparative politics. We will learn topics central
 to understanding the political systems and political events around the world: democratization,
