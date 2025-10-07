@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Contact
 ---
 
 <p> <b>Email</b>: <a href="mailto:jhkim1@yonsei.ac.kr"> jhkim1@yonsei.ac.kr </a> </p>
