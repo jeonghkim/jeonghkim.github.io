@@ -8,6 +8,7 @@ show-avatar: false
   <p><b>Double Glass Ceiling: The Class Effects of Gender Representation </b>(with Yesola Kweon) <br> Forthcoming in Cambridge University Press, <i>Element Series on Gender and Politics</i> 
   <br>Working-class women are severely underrepresented in political bodies across the world. We uncover the political significance of class-based representation gaps among women. We theorize and empirically demonstrate how working-class women's distinct socioeconomic circumstances shape their policy priorities. We show that when these priorities go unrepresented due to working-class women's underrepresentation in politics, the result is decreased political efficacy, trust, and engagement among working-class women, thereby exacerbating both class-based and gender-based inequalities. This research contributes to gender and politics scholarship by advancing our understanding of how intersectionality of class and gender structures political representation.
   </p>
+  
   <h2> Peer-Reviewed Publications </h2>
   <p> Gunderson, Anna, Chesani Askew, Jeong Hyun Kim, and Nichole Bauer. 2025. <a href="https://journals.sagepub.com/doi/full/10.1177/1532673X251343039" target="_blank"> "State Courts, Public Opinion, and the Changing Abortion Landscape After Dobbs." </a> 
   <i>American Politics Research</i> 53(6), 625-630. </p>
