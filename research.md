@@ -1,5 +1,4 @@
 ---
-title: Research
 layout: page
 show-avatar: false
 ---
