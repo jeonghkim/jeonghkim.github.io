@@ -21,14 +21,14 @@ show-avatar: false
 <p>Andrews, Talbot, Cana Kim, and Jeong Hyun Kim, 2023. <a href="https://academic.oup.com/poq/article-abstract/87/4/863/7459212" target="_blank">"News from Home: How Local Media Shapes Climate Change Attitudes."</a> <i>Public Opinion Quarterly</i> 87(4), 863-886. </p>
 <p>Kim, Jeong Hyun, Anna Gunderson, Elizabeth Lane, and Nichole M. Bauer. 2023. <a href="https://read.dukeupress.edu/jhppl/article-abstract/48/4/569/342863" target="_blank">"State Courts, State Legislatures, and Setting Abortion Policy."</a> <i>Journal of Health Politics, Policy and Law</i> 48 (4), 569-592.</p>
 
-<p> Kim, Jeong Hyun and Yesola Kweon, 2022. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12371" target="_blank">"Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas." </a><i>Legislative Studies Quarterly</i> 27(4), 991-1021.</p>
+<p> Kim, Jeong Hyun and Yesola Kweon, 2022. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12371" target="_blank">"Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas." </a> <i>Legislative Studies Quarterly</i> 27(4), 991-1021.</p>
 
 <p>Kim, Jeong Hyun. 2022. <a href="https://www.tandfonline.com/doi/abs/10.1080/17457289.2021.1929258" target="_blank">"Voting in Referendums Increases Internal Political Efficacy of Men but not Women: Evidence from Ireland's 2018 Abortion Referendum."</a> <i>Journal of Elections, Public Opinion, and Parties</i> 32 (3), 707-726. 
 </p>
 
 <p>Kim, Jeong Hyun, Min Hee Seo, and Betsy Sinclair. 2021. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12942" target="_blank">"Local Weather Effects: Perception of Climate Change and Public Support for Government Intervention."</a> <i>Social Science Quarterly</i> 102(2), 881-896.</p>
 
-<p> Bauer, Nichole, Jeong Hyun Kim, and Yesola Kweon. 2020. <a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A" target="_blank">"Women Leaders and Policy Compliance during a Public Health Crisis."</a><i>Politics & Gender</i> 16(4): 975-982. </p>
-<p> Kim, Jeong Hyun. 2019. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12420" target="_blank">"Direct Democracy and Women's Political Engagement."</a> <i>American Journal of Political Science</i> 63 (3), 594-610.</p>
-<p>Ward, Dalston, Jeong Hyun Kim, Matthew Graham, and Margit Tavits. 2015. <a href="https://journals.sagepub.com/doi/abs/10.1177/0010414015576745" target="_blank">"How economic integration affects party issue emphases."</a><i>Comparative Political Studies</i> 48(10), 1227-1259.</p>
+<p> Bauer, Nichole, Jeong Hyun Kim, and Yesola Kweon. 2020. <a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A" target="_blank">"Women Leaders and Policy Compliance during a Public Health Crisis."</a> <i>Politics & Gender</i> 16(4): 975-982. </p>
+<p> Kim, Jeong Hyun. 2019. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12420" target="_blank">"Direct Democracy and Women's Political Engagement."</a>  <i>American Journal of Political Science</i> 63 (3), 594-610.</p>
+<p>Ward, Dalston, Jeong Hyun Kim, Matthew Graham, and Margit Tavits. 2015. <a href="https://journals.sagepub.com/doi/abs/10.1177/0010414015576745" target="_blank">"How economic integration affects party issue emphases."</a> <i>Comparative Political Studies</i> 48(10), 1227-1259.</p>
 </section>
