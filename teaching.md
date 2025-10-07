@@ -1,5 +1,4 @@
 ---
-title: Teaching
 layout: page
 show-avatar: false
 ---
