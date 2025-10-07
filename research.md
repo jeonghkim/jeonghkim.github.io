@@ -17,5 +17,6 @@ show-avatar: false
 
   <p>Kim, Jeong Hyun, John Seungmin Kuk, and Yesola Kweon. 2024. <a href="https://bristoluniversitypressdigital.com/view/journals/pp/52/3/article-p430.xml" target="_blank"> "Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution?" </a> <i>Policy & Politics</i> 52(3) 430-452.
   </p>
-
+<p> Kim, Jeong Hyun and Yesola Kweon. 2024. <a href="https://journals.sagepub.com/doi/abs/10.1177/20531680241226511" target="_blank">Double Penalty? How Candidate Class and Gender Influence Voter Evaluations."</a> <i>Research & Politics</i> 11(1), 1-10. </p>
+<p>Andrews, Talbot, Cana Kim, and Jeong Hyun Kim, 2023. <a href="https://academic.oup.com/poq/article-abstract/87/4/863/7459212" tarbet="_blank">"News from Home: How Local Media Shapes Climate Change Attitudes." <i>Public Opinion Quarterly</i>, 87(4), 863-886. </p>
 </section>
