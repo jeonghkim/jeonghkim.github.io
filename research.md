@@ -19,5 +19,7 @@ show-avatar: false
   </p>
 <p> Kim, Jeong Hyun and Yesola Kweon. 2024. <a href="https://journals.sagepub.com/doi/abs/10.1177/20531680241226511" target="_blank">Double Penalty? How Candidate Class and Gender Influence Voter Evaluations."</a> <i>Research & Politics</i> 11(1), 1-10. </p>
 <p>Andrews, Talbot, Cana Kim, and Jeong Hyun Kim, 2023. <a href="https://academic.oup.com/poq/article-abstract/87/4/863/7459212" target="_blank">"News from Home: How Local Media Shapes Climate Change Attitudes."</a> <i>Public Opinion Quarterly</i>, 87(4), 863-886. </p>
-<p>Kim, Jeong Hyun, Anna Gunderson, Elizabeth Lane, and Nichole M. Bauer. 2023. <a href="https://read.dukeupress.edu/jhppl/article-abstract/48/4/569/342863" target="_blank">State Courts, State Legislatures, and Setting Abortion Policy.</a> <i>Journal of Health Politics, Policy and Law</i> 48 (4), 569-592.</p>
+<p>Kim, Jeong Hyun, Anna Gunderson, Elizabeth Lane, and Nichole M. Bauer. 2023. <a href="https://read.dukeupress.edu/jhppl/article-abstract/48/4/569/342863" target="_blank">"State Courts, State Legislatures, and Setting Abortion Policy."</a> <i>Journal of Health Politics, Policy and Law</i> 48 (4), 569-592.</p>
+
+<p> Kim, Jeong Hyun and Yesola Kweon, 2022. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12371" target="_blank">"Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas." </a><i>Legislative Studies Quarterly.</i> 27(4), 991-1021.</p>
 </section>
