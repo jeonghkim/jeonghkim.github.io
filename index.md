@@ -5,7 +5,7 @@ subtitle:
 use-site-title: false
 ---
 
-<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 5px;">
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 0px;">
   <div style="flex: 1;">
     <p>Welcome to my website! I am an Associate Professor of Political Science and International Studies at Yonsei University in Seoul, South Korea. I am a comparative politics scholar who uses gender and politics as a central analytical framework for studying political representation and public opinion in advanced democracies. My recent work applies a gender and politics lens to pressing contemporary challenges to democracy, such as backlash to equality policies, declining trust in political institutions, and demographic shifts, revealing the critical role of gender in how these structural changes transform political landscapes.</p>
   </div>
