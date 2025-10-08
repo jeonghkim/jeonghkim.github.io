@@ -13,5 +13,5 @@ use-site-title: false
 
 <p> I received my Ph.D. in Political Science from Washington University in St. Louis in 2018. Before joining Yonsei, I was an assistant professor at Louisiana State University. </p>
 
-<p>My Google Scholar page is <a href="https://scholar.google.com/citations?user=ZHhN1tcAAAAJ&hl=en" target="_blank">here</p>
+<p>My Google Scholar page is <a href="https://scholar.google.com/citations?user=ZHhN1tcAAAAJ&hl=en" target="_blank">here</a>.</p>
 
